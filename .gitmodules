@@ -1,0 +1,3 @@
+[submodule "chef/cookbooks/subversion"]
+	path = chef/cookbooks/subversion
+	url = https://github.com/opscode-cookbooks/subversion.git
